@@ -1,4 +1,4 @@
-# Adapted single-region R-ARIO model for transport-economic interdependencies analysis
+# Adapted R-ARIO model for transport-economic interdependencies analysis
 **Adapted from R-ARIO code by Issa et al. (2025): https://github.com/0marissa/SR-ARIO** <br>
 **Original program by Stephane Hallegatte (2014)** <br>
 
